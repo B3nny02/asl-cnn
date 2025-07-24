@@ -35,15 +35,12 @@ python evaluate.py --weights checkpoints/best.h5
 ## Repository Layout
 ```bash
 asl-cnn/
-├── data/                # raw images (git-ignored)
 ├── notebooks/
 │   └── ASL_CNN.ipynb    # step-by-step walk-through
 ├── src/
 │   ├── model.py         # CNN architecture
 │   ├── train.py         # training script
 │   └── utils.py         # preprocessing helpers
-├── checkpoints/         # *.h5 weight files
 ├── outputs/             # plots & logs
 ├── requirements.txt
-├── LICENSE
 └── README.md
