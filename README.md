@@ -33,6 +33,7 @@ python train.py              # or open notebooks/ASL_CNN.ipynb
 python evaluate.py --weights checkpoints/best.h5
 ```
 ## Repository Layout
+```bash
 asl-cnn/
 ├── data/                # raw images (git-ignored)
 ├── notebooks/
