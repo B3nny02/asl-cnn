@@ -1,9 +1,6 @@
 # asl-cnn
 Lightweight CNN trained on the ASL-Alphabet dataset (29 hand-sign classes).   End-to-end notebook + scripts covering: data pipeline → model architecture → training → evaluation → ablation studies.   Achieves 86 % validation accuracy in 15 epochs with just 1.2 M parameters—perfect for learning the basics of image classification.
 
-# ASL-CNN  
-*Lightweight CNN for American Sign Language Alphabet Recognition*  
-**Independent student side-project | Francesco Benincasa**
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow 2.x](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
